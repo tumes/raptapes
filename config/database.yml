@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: raptapes_development
+  pool: 5
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: raptapes_test
+  pool: 5
+  password:
+
